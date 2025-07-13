@@ -1,0 +1,66 @@
+{
+  "results": [
+      {
+          "gender": "male",
+          "name": {
+              "title": "Mr",
+              "first": "Alfredo",
+              "last": "Cano"
+          },
+          "location": {
+              "street": {
+                  "number": 2320,
+                  "name": "Calle Covadonga"
+              },
+              "city": "Barcelona",
+              "state": "La Rioja",
+              "country": "Spain",
+              "postcode": 16770,
+              "coordinates": {
+                  "latitude": "-36.0478",
+                  "longitude": "-76.8758"
+              },
+              "timezone": {
+                  "offset": "+2:00",
+                  "description": "Kaliningrad, South Africa"
+              }
+          },
+          "email": "alfredo.cano@example.com",
+          "login": {
+              "uuid": "118331c1-3d59-401a-b966-303b1d060ae9",
+              "username": "happygorilla306",
+              "password": "mistress",
+              "salt": "o2vLdfNo",
+              "md5": "f19734efe6573a242a028bd63d60edd2",
+              "sha1": "ac9df2e3ea2305f71716fde8ae8af08411e9fe0a",
+              "sha256": "28eae365aa0b6b2670b0c9d416f546393680ab933ef67433889a56f71d028498"
+          },
+          "dob": {
+              "date": "1946-09-08T03:56:53.985Z",
+              "age": 77
+          },
+          "registered": {
+              "date": "2006-11-18T05:51:06.771Z",
+              "age": 17
+          },
+          "phone": "908-030-695",
+          "cell": "622-906-394",
+          "id": {
+              "name": "DNI",
+              "value": "34551767-L"
+          },
+          "picture": {
+              "large": "https://randomuser.me/api/portraits/men/69.jpg",
+              "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+              "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+          },
+          "nat": "ES"
+      }
+  ],
+  "info": {
+      "seed": "6bb7dad447199557",
+      "results": 3,
+      "page": 1,
+      "version": "1.4"
+  }
+}
